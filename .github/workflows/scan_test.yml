@@ -13,3 +13,4 @@ jobs:
           vigilnzApiKey: "${{ secrets.VIGILNZ_API_KEY }}"
           scanTypes: "IAC SCAN"
           environment: "dev"
+          projectName: "Github Action"
